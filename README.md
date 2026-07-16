@@ -1,6 +1,6 @@
 # Manhattan Hydrant Density Map
 
-🗺️ **[Live map](https://{your-username}.github.io/nyc-hydrant-map/)**
+🗺️ **[Live map](https://adamgoodell.github.io/nyc-hydrant-map/)**
 
 An interactive web map of fire hydrant density across Manhattan neighborhoods.
 Built on the modern open-source stack (MapLibre + PMTiles + GitHub Pages)
@@ -39,7 +39,7 @@ Total monthly cost: $0. Total servers running: 0.
 ## How to reproduce
 
 ```bash
-git clone https://github.com/{your-username}/nyc-hydrant-map.git
+git clone https://github.com/adamgoodell/nyc-hydrant-map.git
 cd nyc-hydrant-map
 
 python3 -m venv .venv
