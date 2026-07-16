@@ -1,0 +1,18 @@
+# Source data: regenerate from PP2 output via scripts/parquet_to_geojson.py.
+data/raw/
+
+# Python virtual environment
+.venv/
+__pycache__/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Editor noise
+.vscode/
+.idea/
+*.swp
+
+# Local web server logs
+*.log
